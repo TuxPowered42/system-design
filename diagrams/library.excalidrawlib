@@ -76627,12 +76627,12 @@
           "locked": false,
           "fontSize": 10.425792531010428,
           "fontFamily": 2,
-          "text": "www     127.0.0.1",
+          "text": "www     ::1",
           "baseline": 7.558887754810554,
           "textAlign": "left",
           "verticalAlign": "top",
           "containerId": null,
-          "originalText": "www     127.0.0.1"
+          "originalText": "www     ::1"
         },
         {
           "type": "arrow",
